@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bygt](https://github.com/bygt)
 
+- 💬 Feel free to check out my repositories and connect with me! 
+
 - 📫 Reach me on **https://www.linkedin.com/in/buse-yigit**
 
 <h3 align="left">Connect with me:</h3>
