@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/bygt)
-
 - 💬 Feel free to check out my repositories and connect with me! 
 
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/buse-yigit)**
