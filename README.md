@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Node.js projects**
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **Image Processing with Python**
 
 - 💬 Feel free to check out my repositories and connect with me! 
 
